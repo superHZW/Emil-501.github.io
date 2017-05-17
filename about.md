@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-###![全家福](Emil-501.github.io/images/family.jpg)
+###![全家福](https://raw.githubusercontent.com/Emil-501/emil-501.github.io/master/images/family.jpg)
 SDN网络实验室由福州大学数学与计算机学院成立于XXXX年，其主要成员有张栋副教授，。。。。。。，其主要研究方向包括SDN，数据平面可编程，P4网络虚拟化。。。。
 
 
@@ -14,6 +14,7 @@ SDN网络实验室由福州大学数学与计算机学院成立于XXXX年，其�
 - [高仁贵](https://grglym.github.io/)
 - [汪培侨](https://peiqiaoWang.github.io/person_introduction/)
 - [张为凡](https://keepthebeats.github.io/)
+- [赵畅](https://zcplayground.github.io/) 
 
 
 ### Contact me
